@@ -4,7 +4,8 @@ Use "/stand" command to get up from chair / bench
 
 You can try to add additional objects to seat by editing main.lua
 
-```Props = {
+```
+Props = {
     {"P_CHAIRCOMFY04X", "GENERIC_SEAT_CHAIR_SCENARIO"} ,
     {"P_SIT_CHAIRWICKER01B", "GENERIC_SEAT_CHAIR_SCENARIO"} ,
     {"P_SIT_CHAIRWICKER01A", "GENERIC_SEAT_CHAIR_SCENARIO"} ,
@@ -21,4 +22,4 @@ You can try to add additional objects to seat by editing main.lua
     {"P_COUCH05X", "GENERIC_SEAT_BENCH_SCENARIO"} ,
     {"P_COUCH08X", "GENERIC_SEAT_BENCH_SCENARIO"} ,
     {"P_BENCH15X", "GENERIC_SEAT_BENCH_SCENARIO"}
-}```
+}
