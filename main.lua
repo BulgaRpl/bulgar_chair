@@ -9,7 +9,7 @@ function Seat()
         local str = 'Seat'
         local wait = 0
         SeatPrompt = Citizen.InvokeNative(0x04F97DE45A519419)
-        PromptSetControlAction(SeatPrompt, 0xC7B5340A)
+        PromptSetControlAction(SeatPrompt, 0x018C47CF)
         str = CreateVarString(10, 'LITERAL_STRING', str)
         PromptSetText(SeatPrompt, str)
         PromptSetEnabled(SeatPrompt, true)
